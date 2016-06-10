@@ -77,8 +77,8 @@ var durata = 2000;
    * Set the 'client ID' and the 'client secret' to use on Instagram
    * @type {String}
    */
-  var clientID = '9a0a6df896cc436daba9de70428ca4a7',
-    clientSecret = '38370a635b2742129b472804543f3375';
+  var clientID = 'metti_qui_il_client_id',
+    clientSecret = 'metti_qui_il_client_secret';
 
   /**
    * Set the configuration
