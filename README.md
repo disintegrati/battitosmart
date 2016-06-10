@@ -37,3 +37,4 @@ $sudo make install
 $sudo adduser $USER gpio
  
 uscire e rientrare dal terminale
+# battitosmart
